@@ -14,8 +14,8 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-AZ_ACCOUNT_NAME = ‘cs2c687d6b57608x4dcbx866’
-AZ_ACCOUNT_KEY = ‘cRVDJ8X0QRYX7sDMZ0khU3UZfPBsWFVHb62wn9yE+V6aSU5G6mql+EYytVSDD14WgzTGjiu0vXVHGKNVdEg4dA==’
+AZ_ACCOUNT_NAME = â€˜robocoachâ€™
+AZ_ACCOUNT_KEY = â€˜Yxbyzlr6uUL4tDKy/uLoGktBVT5PmXv/7g6wFjqIVzPweK8FEli1aO9GGFRo3qHg9VxlhYKo0hs+d7o41d2YFg==â€™
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
